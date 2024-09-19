@@ -18,9 +18,9 @@ status-website:
   themeUrl: https://raw.githubusercontent.com/Sampuke/serveruptime/master/assets/my-custom-theme.css
   navbar:
     - title: Status
-      href: https://sampuke.github.io/serveruptime
+      href: /serveruptime
     - title: Pää Serveri
-      href: https://sampuke.github.io/serveruptime/history/south-l-and-test-server
+      href: /serveruptime/history/south-l-and-test-server
     - title: Liity
       href: fivem://connect/178.75.160.53:30120
     - title: Discord
