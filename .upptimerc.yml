@@ -16,6 +16,7 @@ status-website:
   introMessage: Tästä näkee onko servulla mahdollista pelata :)
   theme: dark
   #themeUrl: https://raw.githubusercontent.com/Sampuke/serveruptime/master/assets/my-custom-theme.css
+  themeUrl: https://raw.githubusercontent.com/Sampuke/serveruptime/master/assets/my-custom-theme.css
   navbar:
     - title: Status
       href: /serveruptime
@@ -25,6 +26,6 @@ status-website:
       href: fivem://connect/178.75.160.53:30120
     - title: Discord
       href: https://discord.gg/YXnAGJzwHZ
-
+      
 workflowSchedule:
   uptime: "3-58/5 * * * *"
