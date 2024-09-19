@@ -9,9 +9,6 @@ sites:
     port: 30120
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  #cname: demo.upptime.js.org
   baseUrl: /serveruptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/logo96.png
   name: SouthLAnd
@@ -27,5 +24,3 @@ status-website:
       href: https://discord.gg/YXnAGJzwHZ
 workflowSchedule:
   uptime: "3-58/5 * * * *"
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
