@@ -5,18 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "south-l-and-test-server",
     "status": "up",
-    "uptime": "32.01%",
-    "uptimeDay": "32.01%",
-    "uptimeWeek": "32.01%",
-    "uptimeMonth": "32.01%",
-    "uptimeYear": "32.01%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2024-09-19": 3
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 125,
+    "timeDay": 125,
+    "timeWeek": 125,
+    "timeMonth": 125,
+    "timeYear": 125,
+    "dailyMinutesDown": {}
   }
 ]
