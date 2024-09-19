@@ -17,6 +17,7 @@ status-website:
   name: SouthLAnd
   introTitle: "**SouthLand** täältä näet serverin uptimen (eli onko servu toiminnassa)."
   introMessage: Tästä näkee onko servulla mahdollista pelata :)
+  theme: dark
   navbar:
     - title: Status
       href: /
