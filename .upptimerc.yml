@@ -29,35 +29,35 @@ status-website:
     - title: Discord
       href: https://discord.gg/YXnAGJzwHZ
 i18n:
-    activeIncidents: Active Incidents
-    allSystemsOperational: All systems are operational
-    incidentReport: "Incident #$NUMBER report →"
-    activeIncidentSummary: Opened at $DATE with $POSTS posts
-    incidentTitle: Incident $NUMBER Details
-    incidentDetails: Incident Details
-    incidentFixed: Fixed
-    incidentOngoing: Ongoing
-    incidentOpenedAt: Opened at
-    incidentClosedAt: Closed at
-    incidentViewOnGitHub: View and Subscribe on GitHub
-    incidentCommentSummary: Posted at $DATE by $AUTHOR
-    incidentBack: ← Back to all incidents
-    pastIncidents: Past Incidents
-    pastIncidentsResolved: Resolved in $MINUTES minutes with $POSTS posts
+    activeIncidents: Aktiiviset Tilanteet
+    allSystemsOperational: Kaikki Systeemit on toiminnassa
+    incidentReport: "Tilanne #$NUMBER raportti →"
+    activeIncidentSummary: Avattu $DATE sisältää $POSTS postausta
+    incidentTitle: Tilanne $NUMBER tietoja
+    incidentDetails: TIlanne Tiedot
+    incidentFixed: Korjattu
+    incidentOngoing: Jatkuva
+    incidentOpenedAt: Avattu
+    incidentClosedAt: Suljettu
+    incidentViewOnGitHub: Katso Ja tilaa Githubissa
+    incidentCommentSummary: Postattu $DATE $AUTHOR
+    incidentBack: ← Takaisin Kaikkiin Tilanteisiin
+    pastIncidents: Aiemmat Tilanteet
+    pastIncidentsResolved: Ratkaistu $MINUTES minuutissa $POSTS postauksella
     liveStatus: Live Status
-    overallUptime: "Overall uptime: $UPTIME"
-    overallUptimeTitle: Overall uptime
-    averageResponseTime: "Average response time: $TIMEms"
-    averageResponseTimeTitle: Average response
-    sevelDayResponseTime: 7-day response time
-    responseTimeMs: Response time (ms)
+    overallUptime: "Koko Uptime: $UPTIME"
+    overallUptimeTitle: Koko Uptime
+    averageResponseTime: "Keskimääräinen Vastausaika: $TIMEms"
+    averageResponseTimeTitle: Keskimääräinen Vastaus Aika
+    sevelDayResponseTime: 7-päivän vastausaika
+    responseTimeMs: Vastausaika (PING) (ms)
     up: Up
     down: Down
     degraded: Degraded
     ms: ms
-    loading: Loading
-    navGitHub: GitHub
-    footer: This page is [open source]($REPO), powered by [Upptime](https://upptime.js.org)
+    loading: Ladataan
+    navGitHub: Github
+    footer: Southland on suomalainen roolipeliserveri. Tältä sivulta näet statuksen
     rateLimitExceededTitle: Rate limit exceeded
     rateLimitExceededIntro: You have exceeded the number of requests you can do in an hour, so you'll have to wait before accessing this website again. Alternately, you can add a GitHub Personal Access Token to continue to use this website.
     rateLimitExceededWhatDoesErrorMean: What does this error mean?
@@ -73,9 +73,9 @@ i18n:
     errorTitle: An error occurred
     errorIntro: An error occurred in trying to get the latest status details.
     errorText: You can try again in a few moments.
-    errorHome: Go to the homepage
-    pastScheduledMaintenance: Past Scheduled Maintenance
-    scheduledMaintenance: Scheduled Maintenance
+    errorHome: Takaisin kotisivulle
+    pastScheduledMaintenance: Aiemmat Huoltokatkot
+    scheduledMaintenance: Tulevat Huoltokatkot
     scheduledMaintenanceSummaryStarted: Started at $DATE for $DURATION minutes
     scheduledMaintenanceSummaryStarts: Starts at $DATE for $DURATION minutes
     startedAt: Started at
