@@ -17,7 +17,7 @@ status-website:
   theme: dark
   navbar:
     - title: Status
-      href: /
+      href: https://sampuke.github.io/serveruptime
     - title: Join
       href: fivem://connect/178.75.160.53:30120
     - title: Discord
