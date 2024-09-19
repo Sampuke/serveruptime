@@ -1,10 +1,13 @@
 owner: Sampuke
+
 repo: serveruptime
+
 sites:
   - name: SouthLAnd Test Server
     check: "tcp-ping"
     url: 178.75.160.53
     port: 30120
+
 status-website:
   baseUrl: /serveruptime
   logoUrl: https://github.com/Sampuke/serveruptime/blob/master/assets/logo96.png
@@ -21,5 +24,6 @@ status-website:
       href: fivem://connect/178.75.160.53:30120
     - title: Discord
       href: https://discord.gg/YXnAGJzwHZ
+
 workflowSchedule:
   uptime: "3-58/5 * * * *"
