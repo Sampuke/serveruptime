@@ -18,7 +18,9 @@ status-website:
   navbar:
     - title: Status
       href: https://sampuke.github.io/serveruptime
-    - title: Join
+    - title: Pää Serveri
+      href: https://sampuke.github.io/serveruptime/history/south-l-and-test-server
+    - title: Liity
       href: fivem://connect/178.75.160.53:30120
     - title: Discord
       href: https://discord.gg/YXnAGJzwHZ
