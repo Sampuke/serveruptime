@@ -11,6 +11,7 @@ sites:
 status-website:
   baseUrl: /serveruptime
   logoUrl: https://github.com/Sampuke/serveruptime/blob/master/assets/logo96.png
+  favicon: https://github.com/Sampuke/serveruptime/blob/master/assets/logo96.png
   name: SouthLAnd
   introTitle: "**SouthLand** täältä näet serverin uptimen (eli onko servu toiminnassa)."
   introMessage: Tästä näkee onko servulla mahdollista pelata :)
