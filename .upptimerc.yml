@@ -22,8 +22,6 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: Pää Serveri
-      href: /history/south-l-and-test-server
     - title: Liity
       href: fivem://connect/178.75.160.53:30120
     - title: Discord
