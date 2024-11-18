@@ -6,7 +6,7 @@
     "slug": "south-l-and-test-server",
     "status": "down",
     "uptime": "15.58%",
-    "uptimeDay": "34.45%",
+    "uptimeDay": "32.67%",
     "uptimeWeek": "37.76%",
     "uptimeMonth": "19.75%",
     "uptimeYear": "15.58%",
@@ -16,7 +16,7 @@
     "timeMonth": 185,
     "timeYear": 167,
     "dailyMinutesDown": {
-      "2024-11-18": 0,
+      "2024-11-18": 26,
       "2024-11-17": 944,
       "2024-11-16": 914,
       "2024-11-15": 1440,
