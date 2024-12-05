@@ -4,12 +4,12 @@
     "url": "178.75.160.53",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "south-l-and-test-server",
-    "status": "up",
-    "uptime": "15.21%",
-    "uptimeDay": "17.84%",
-    "uptimeWeek": "14.06%",
-    "uptimeMonth": "20.85%",
-    "uptimeYear": "15.21%",
+    "status": "down",
+    "uptime": "18.79%",
+    "uptimeDay": "18.61%",
+    "uptimeWeek": "14.17%",
+    "uptimeMonth": "20.88%",
+    "uptimeYear": "18.79%",
     "time": 164,
     "timeDay": 171,
     "timeWeek": 155,
@@ -90,10 +90,7 @@
       "2024-09-25": 1401,
       "2024-09-24": 1440,
       "2024-09-23": 1319,
-      "2024-09-22": 1277,
-      "2024-09-21": 1440,
-      "2024-09-20": 1440,
-      "2024-09-19": 389
+      "2024-09-22": 571
     }
   }
 ]
